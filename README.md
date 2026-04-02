@@ -1,4 +1,4 @@
-# 🧠 sync-neon-eeg
+# 🧠 neon-eeg-sync
 
 **A multimodal integration pipeline for high-precision synchronization of EEG and eye-tracking via Lab Streaming Layer (LSL).**
 
