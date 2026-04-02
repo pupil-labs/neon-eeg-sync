@@ -1,6 +1,6 @@
 # 🧠 sync-neon-eeg
 
-**A multimodal integration pipeline for high-precision synchronization of EEG and eye-tracking telemetry via Lab Streaming Layer (LSL).**
+**A multimodal integration pipeline for high-precision synchronization of EEG and eye-tracking via Lab Streaming Layer (LSL).**
 
 This project provides a complete workflow for running and analyzing synchronized experiments using Mentalab Explore Pro, Pupil Labs Neon, and PsychoPy.
 
