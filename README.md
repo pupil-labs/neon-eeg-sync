@@ -7,7 +7,7 @@
 [![LSL](https://img.shields.io/badge/LSL-Lab%20Streaming%20Layer-orange.svg)](https://github.com/sccn/labstreaminglayer)
 [![Pupil Labs](https://img.shields.io/badge/Pupil%20Labs-Neon-purple.svg)](https://pupil-labs.com/products/neon/)
 
-This project provides a complete workflow for running and analyzing synchronized experiments using **Mentalab Explore Pro**, **Pupil Labs Neon**, and **PsychoPy**.
+This project provides a complete workflow for running and analyzing synchronized experiments using Mentalab Explore Pro, Pupil Labs Neon, and PsychoPy.
 
 ---
 
@@ -21,7 +21,7 @@ The core PsychoPy script for high-precision data collection.
 
 * **Task Design:** Implements an active/passive trial structure (40 trials each). Participants trigger tones by button presses in "active" mode, while tones play after random delays in "passive" mode.
 * **Data Streaming:** Broadcasts task events via LSL as the `PSY_MARKERS_TASK` stream.
-* **Device Integration:** Uses the **Pupil Labs Neon Real-Time API** for event synchronization and recording control, alongside **Mentalab Explore** for EEG data.
+* **Device Integration:** Uses the Pupil Labs Neon Real-Time API and Neon-PsychoPy plugin for event synchronization and recording control, alongside Mentalab Explore for EEG data.
 * **Synchronization:** Handles PC-to-Neon clock offset estimation to ensure precise temporal alignment of all markers.
 
 ### 2. Data Analysis
