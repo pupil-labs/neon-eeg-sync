@@ -2,11 +2,6 @@
 
 **A multimodal integration pipeline for high-precision synchronization of EEG and eye-tracking telemetry via Lab Streaming Layer (LSL).**
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![MNE-Python](https://img.shields.io/badge/MNE-Python-green.svg)](https://mne.tools/stable/index.html)
-[![LSL](https://img.shields.io/badge/LSL-Lab%20Streaming%20Layer-orange.svg)](https://github.com/sccn/labstreaminglayer)
-[![Pupil Labs](https://img.shields.io/badge/Pupil%20Labs-Neon-purple.svg)](https://pupil-labs.com/products/neon/)
-
 This project provides a complete workflow for running and analyzing synchronized experiments using Mentalab Explore Pro, Pupil Labs Neon, and PsychoPy.
 
 ---
